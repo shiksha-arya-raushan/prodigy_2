@@ -25,4 +25,4 @@ This is a functional Stopwatch web application built to demonstrate proficiency 
 
 ## 👤 Author
 - **Shiksha Arya Raushan**
--You can view the live project here: https://suman9771528543-dev.github.io/PRODIGY_WD_04/
+-You can view the live project here: https://shiksha-arya-raushan.github.io/prodigy_2/
